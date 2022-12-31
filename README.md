@@ -3,7 +3,7 @@
 
 I’m **Ignacio Romanow**, Fullstack developer from Buenos Aires, Argentina.
 
-Student in [**@soyHenry**](https://www.soyhenry.com/),  where I learned the most up-to-date tools on the market
+Every day I am something more
 
 
 :mailbox: If you want to know more about me or are interested in my profile, I invite you to chat
