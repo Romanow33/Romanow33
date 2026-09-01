@@ -1,20 +1,21 @@
-### Welcome / Bienvenidos!👋
+# Hi there, I'm Ignacio Romanow 👋
 
+### **Senior AI Systems & Full-Stack Engineer**
+*Specializing in Multi-Agent Workflows, Production RAG & Scalable Cloud Infrastructure*
 
-I’m **Ignacio Romanow**, Fullstack developer from Buenos Aires, Argentina.
+📍 **Buenos Aires, Argentina (Remote)** 💼 Open to Senior AI / LLM Software Engineering & Architect Roles globally.
 
-Every day I am something more
+---
 
+### 🚀 About Me
 
-:mailbox: If you want to know more about me or are interested in my profile, I invite you to chat
+Full-Stack & AI Systems Engineer with **5+ years of experience** building enterprise web applications, production-grade AI architectures, autonomous multi-agent workflows, and cloud data pipelines.
 
-- [Linkedin](https://www.linkedin.com/in/ignacio-romanow/)
-- [Personal Website](https://ignacio-romanow.netlify.app/)
-- [e-mail](romanowIgnacio1@gmail.com)
+- 🤖 **AI & Agentic Systems:** Architecting stateful, autonomous multi-agent systems using **LangGraph, LangChain, and DeepAgent**.
+- 🧠 **RAG & MLOps:** Building low-latency Retrieval-Augmented Generation (RAG) pipelines with vector databases (**PGVector, Pinecone**) and self-hosting open-source LLMs (Llama, Qwen) on cloud GPU Virtual Machines using **vLLM / Ollama**.
+- ⚙️ **Backend & Cloud Pipelines:** Engineering resilient microservices with **Python, Node.js, NestJS, Django**, and containerized infrastructure on **AWS, Azure, and OpenShift**.
+- 🎨 **Modern Frontend & Architecture:** Designing high-performance web applications using **TypeScript, Vue 3, React, Next.js, and Single-SPA Micro-Frontends**.
 
-![Alt Text](https://media.tenor.com/images/5ba5b5f38da1e24cf844cd53fe22863d/tenor.gif)
+---
 
-
-
-
-
+### 🛠️ Technical Stack & Tools
